@@ -1,4 +1,4 @@
-## Sonarqube install on centos 7
+## Sonarqube installation on centos 7
 ## Please run this as user vagrant
 
 user_name=`whoami`
